@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.19.3",
@@ -345,11 +345,6 @@
       "sha256": "ef2d70cb66a265c8d72a30602942a929dca3d114bfb231b3191f28d3a1fc441e"
     },
     {
-      "path": "mods/HardcoreLite-1.0.0-Fabric-mc1.21.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__HardcoreLite-1.0.0-Fabric-mc1.21.jar",
-      "sha256": "e9dd753bd204c2604cf36452f9fb8344ec8c479e4048eae6c0b02692f577a4ae"
-    },
-    {
       "path": "mods/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
       "sha256": "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9"
@@ -553,6 +548,11 @@
       "path": "mods/hardcorerevivales.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.6/mods__hardcorerevivales.jar",
       "sha256": "1023b11c0e6ed2bb887a05b979b46170371d70db35bc0ec9df5b54defc2b4013"
+    },
+    {
+      "path": "mods/heartcore-1.0.0.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.7/mods__heartcore-1.0.0.jar",
+      "sha256": "8f4dd7e4641d42a688c8dc8f4d7c6b3db1ae4b3d41be0208b408bb846c24b5ef"
     }
   ]
 }
