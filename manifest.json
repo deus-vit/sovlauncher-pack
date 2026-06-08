@@ -1,5 +1,5 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.19.3",
@@ -629,12 +629,6 @@
       "bytes": 872937
     },
     {
-      "path": "mods/hardcorerevivales.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__hardcorerevivales.jar",
-      "sha256": "1023b11c0e6ed2bb887a05b979b46170371d70db35bc0ec9df5b54defc2b4013",
-      "bytes": 236105
-    },
-    {
       "path": "config/crash_assistant/config.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__crash_assistant__config.toml",
       "sha256": "70afae11eb284d0d2844743296179feb8d905c274ffa764cc366bfa6939490a4",
@@ -773,5 +767,5 @@
       "bytes": 37046674
     }
   ],
-  "pack_bytes": 118364925
+  "pack_bytes": 118128820
 }
