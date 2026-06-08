@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.19.3",
@@ -7,637 +7,764 @@
     {
       "path": "resourcepacks/Default-Dark-Mode-1.20.2+-2025.5.0.zip",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/resourcepacks__Default-Dark-Mode-1.20.2%2B-2025.5.0.zip",
-      "sha256": "3f168a0a354a4f703ebc22b0bf011df4f2211b3e8b4b561e527c699bb7356ab2"
+      "sha256": "3f168a0a354a4f703ebc22b0bf011df4f2211b3e8b4b561e527c699bb7356ab2",
+      "bytes": 748843
     },
     {
       "path": "resourcepacks/enchant icons 1.21 v1.3.zip",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/resourcepacks__enchant.icons.1.21.v1.3.zip",
-      "sha256": "78cbfc8aa6994e943cf5247906d1160caff00d7e41430225a517c4a5ba731e24"
+      "sha256": "78cbfc8aa6994e943cf5247906d1160caff00d7e41430225a517c4a5ba731e24",
+      "bytes": 168408
     },
     {
       "path": "resourcepacks/LowOnFire 1.21.3.zip",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/resourcepacks__LowOnFire.1.21.3.zip",
-      "sha256": "55ab1c3595da0d8174efe28c2ef9a35e49997a371c67bb7664e841d26954dc15"
+      "sha256": "55ab1c3595da0d8174efe28c2ef9a35e49997a371c67bb7664e841d26954dc15",
+      "bytes": 41582
     },
     {
       "path": "resourcepacks/Slightly-Improved-Font-1.1.5.zip",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/resourcepacks__Slightly-Improved-Font-1.1.5.zip",
-      "sha256": "b991537dd86f7dee818d8d059b8beb21d17d606ae797865e0c71b8cc9918c1de"
+      "sha256": "b991537dd86f7dee818d8d059b8beb21d17d606ae797865e0c71b8cc9918c1de",
+      "bytes": 74599
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/shaderpacks__ComplementaryReimagined_r5.8.1.zip",
-      "sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+      "sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
+      "bytes": 546925
     },
     {
       "path": "shaderpacks/MakeUp-UltraFast-9.5a.zip",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/shaderpacks__MakeUp-UltraFast-9.5a.zip",
-      "sha256": "433e1edd5d1193ccf4f59c9202a00896820777e73ac10b109b8ee307847fc775"
+      "sha256": "433e1edd5d1193ccf4f59c9202a00896820777e73ac10b109b8ee307847fc775",
+      "bytes": 398018
     },
     {
       "path": "config/badoptimizations.txt",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__badoptimizations.txt",
-      "sha256": "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
+      "sha256": "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9",
+      "bytes": 3458
     },
     {
       "path": "config/chunksending.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__chunksending.json",
-      "sha256": "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
+      "sha256": "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7",
+      "bytes": 301
     },
     {
       "path": "config/compactf3plus.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__compactf3plus.json",
-      "sha256": "0e54196411a71dac8b01d772214ce37211140ed085c09c7a1f491f9f15fd5994"
+      "sha256": "0e54196411a71dac8b01d772214ce37211140ed085c09c7a1f491f9f15fd5994",
+      "bytes": 577
     },
     {
       "path": "config/connectivity.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__connectivity.json",
-      "sha256": "6b95731807c56659d67f5c439439493834d0c42ad33baf23ef60d45bb7e73202"
+      "sha256": "6b95731807c56659d67f5c439439493834d0c42ad33baf23ef60d45bb7e73202",
+      "bytes": 1763
     },
     {
       "path": "config/cupboard.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__cupboard.json",
-      "sha256": "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
+      "sha256": "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028",
+      "bytes": 1090
     },
     {
       "path": "config/DistantHorizons.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__DistantHorizons.toml",
-      "sha256": "361efa4e8e41b5ec093d44dd234a2a6d68d81615b1e7796ac5da2b96ace4d586"
+      "sha256": "361efa4e8e41b5ec093d44dd234a2a6d68d81615b1e7796ac5da2b96ace4d586",
+      "bytes": 32929
     },
     {
       "path": "config/distraction_free_recipes-client.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__distraction_free_recipes-client.toml",
-      "sha256": "1ac3e06b909d5fdcfb07405da21a1c546df068af8f910dd2c78bbb77a04b16e0"
+      "sha256": "1ac3e06b909d5fdcfb07405da21a1c546df068af8f910dd2c78bbb77a04b16e0",
+      "bytes": 364
     },
     {
       "path": "config/ferritecore.mixin.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__ferritecore.mixin.properties",
-      "sha256": "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818"
+      "sha256": "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818",
+      "bytes": 1615
     },
     {
       "path": "config/forgeconfigapiport.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__forgeconfigapiport.toml",
-      "sha256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
+      "sha256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
+      "bytes": 523
     },
     {
       "path": "config/fpsbooster.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__fpsbooster.json",
-      "sha256": "6d68c5750ea36c656f846e463fa1c7fedea898053b619b500450320b6038f285"
+      "sha256": "6d68c5750ea36c656f846e463fa1c7fedea898053b619b500450320b6038f285",
+      "bytes": 187
     },
     {
       "path": "config/hardcorerevival-common.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__hardcorerevival-common.toml",
-      "sha256": "37699b3a231497f1c63090de3e421e42d2cf352c9b2d4a48d7424457e381fcf8"
+      "sha256": "37699b3a231497f1c63090de3e421e42d2cf352c9b2d4a48d7424457e381fcf8",
+      "bytes": 2301
     },
     {
       "path": "config/immediatelyfast.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__immediatelyfast.json",
-      "sha256": "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+      "sha256": "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a",
+      "bytes": 1114
     },
     {
       "path": "config/immersive_optimization.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__immersive_optimization.json",
-      "sha256": "6f70688297ca5e8064436ef38862ffb035edaca5698a8d78f1b91b34b0f7d03c"
+      "sha256": "6f70688297ca5e8064436ef38862ffb035edaca5698a8d78f1b91b34b0f7d03c",
+      "bytes": 990
     },
     {
       "path": "config/lithium.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__lithium.properties",
-      "sha256": "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+      "sha256": "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
+      "bytes": 267
     },
     {
       "path": "config/maxhealthfix.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__maxhealthfix.json",
-      "sha256": "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
+      "sha256": "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241",
+      "bytes": 132
     },
     {
       "path": "config/modernfix-mixins.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__modernfix-mixins.properties",
-      "sha256": "5d638483a8b6ce35fcba87578edc963515b6d9d4aa3fa53191e43b9dfd2eabe5"
+      "sha256": "5d638483a8b6ce35fcba87578edc963515b6d9d4aa3fa53191e43b9dfd2eabe5",
+      "bytes": 4087
     },
     {
       "path": "config/modmenu.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__modmenu.json",
-      "sha256": "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
+      "sha256": "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b",
+      "bytes": 840
     },
     {
       "path": "config/moreculling.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__moreculling.toml",
-      "sha256": "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5"
+      "sha256": "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5",
+      "bytes": 540
     },
     {
       "path": "config/no-more-popups.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__no-more-popups.json",
-      "sha256": "2d72314fba8914d377ec603a89caafe28504ee5e2f91a8263b3672e110ab08c0"
+      "sha256": "2d72314fba8914d377ec603a89caafe28504ee5e2f91a8263b3672e110ab08c0",
+      "bytes": 419
     },
     {
       "path": "config/packetfixer.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__packetfixer.properties",
-      "sha256": "142264b33af9cf7d0f557be8c245f0aeddf2ea66cb3bbb5e7e27774163c4a826"
+      "sha256": "142264b33af9cf7d0f557be8c245f0aeddf2ea66cb3bbb5e7e27774163c4a826",
+      "bytes": 488
     },
     {
       "path": "config/particle_core_config.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__particle_core_config.toml",
-      "sha256": "9f78cd6740c669aceea023504efd2e600168af4bb41c2f0b12caa9988384b609"
+      "sha256": "9f78cd6740c669aceea023504efd2e600168af4bb41c2f0b12caa9988384b609",
+      "bytes": 361
     },
     {
       "path": "config/particle_core_disabled_optimizations_v2.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__particle_core_disabled_optimizations_v2.json",
-      "sha256": "b7bc203723d72ea4be656397987c2994ead752d99677f003a8d2fd077f4a2e2a"
+      "sha256": "b7bc203723d72ea4be656397987c2994ead752d99677f003a8d2fd077f4a2e2a",
+      "bytes": 1758
     },
     {
       "path": "config/quick-pack.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__quick-pack.json",
-      "sha256": "18bb4bac8bf47499a99702cc1edcc2f70903524e365290a200b4c0cdadc9c6b2"
+      "sha256": "18bb4bac8bf47499a99702cc1edcc2f70903524e365290a200b4c0cdadc9c6b2",
+      "bytes": 41
     },
     {
       "path": "config/resourceful-config-web.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__resourceful-config-web.json",
-      "sha256": "eefaed8c5f0088898781ebd3d9bbd02430e8c161e14d9d9a2567f8fcd8064784"
+      "sha256": "eefaed8c5f0088898781ebd3d9bbd02430e8c161e14d9d9a2567f8fcd8064784",
+      "bytes": 196
     },
     {
       "path": "config/smoothchunk.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__smoothchunk.json",
-      "sha256": "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2"
+      "sha256": "5f85b2c857c2561cf720745f724d20befce7bb58732083259a798263c0af99f2",
+      "bytes": 585
     },
     {
       "path": "config/sodium-fingerprint.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__sodium-fingerprint.json",
-      "sha256": "f044da86a1e0ec41ba53df79ca015d7b39c25678f18042e46ff50a1ee6e0e0dc"
+      "sha256": "f044da86a1e0ec41ba53df79ca015d7b39c25678f18042e46ff50a1ee6e0e0dc",
+      "bytes": 427
     },
     {
       "path": "config/sodium-mixins.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__sodium-mixins.properties",
-      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "bytes": 258
     },
     {
       "path": "config/sodium-options.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__sodium-options.json",
-      "sha256": "91fae0c047246e41a2ac3f038d7a6cf901eb38b141f9ef6306386786d2b99ba8"
+      "sha256": "91fae0c047246e41a2ac3f038d7a6cf901eb38b141f9ef6306386786d2b99ba8",
+      "bytes": 729
     },
     {
       "path": "config/sodiumdynamiclights-client.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__sodiumdynamiclights-client.toml",
-      "sha256": "9cb3a4ee232f4be0609bb4bafcdfa7791875b9d6b9b9ed6984a3732426522972"
+      "sha256": "9cb3a4ee232f4be0609bb4bafcdfa7791875b9d6b9b9ed6984a3732426522972",
+      "bytes": 651
     },
     {
       "path": "config/structureessentials.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__structureessentials.json",
-      "sha256": "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd"
+      "sha256": "54826c1ce55156e6a3d19a22949d733668806c7ed4a77218cc1d26bb6c5fa7bd",
+      "bytes": 3787
     },
     {
       "path": "config/structure_layout_optimizer.jsonc",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__structure_layout_optimizer.jsonc",
-      "sha256": "5a9058652bc0b88b8810e0b94eba0e1a90cbff2472845c53a7e67442682a1579"
+      "sha256": "5a9058652bc0b88b8810e0b94eba0e1a90cbff2472845c53a7e67442682a1579",
+      "bytes": 1058
     },
     {
       "path": "config/zoomify.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__zoomify.json",
-      "sha256": "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
+      "sha256": "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36",
+      "bytes": 708
     },
     {
       "path": "mods/alternate-current-mc1.21-1.9.0.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__alternate-current-mc1.21-1.9.0.jar",
-      "sha256": "75520a1ba75b7f1fb13508a111828c3406c509a0557c64b5b1f29862ab10d606"
+      "sha256": "75520a1ba75b7f1fb13508a111828c3406c509a0557c64b5b1f29862ab10d606",
+      "bytes": 51836
     },
     {
       "path": "mods/architectury-13.0.8-fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__architectury-13.0.8-fabric.jar",
-      "sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d"
+      "sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d",
+      "bytes": 600915
     },
     {
       "path": "mods/BadOptimizations-2.4.1-1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__BadOptimizations-2.4.1-1.21.1.jar",
-      "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
+      "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba",
+      "bytes": 283566
     },
     {
       "path": "mods/balm-fabric-1.21.1-21.0.56.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__balm-fabric-1.21.1-21.0.56.jar",
-      "sha256": "928f71d90b0064ba450e31211273c87491af13f820b3c1992b26811e0bd22d38"
+      "sha256": "928f71d90b0064ba450e31211273c87491af13f820b3c1992b26811e0bd22d38",
+      "bytes": 773504
     },
     {
       "path": "mods/bookshelf-fabric-1.21.1-21.1.81.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__bookshelf-fabric-1.21.1-21.1.81.jar",
-      "sha256": "df2dd3a3e75f2dbf56baf9bdb6cc0007f9c0efb0f2b2067f047ddf98ea1b49d8"
+      "sha256": "df2dd3a3e75f2dbf56baf9bdb6cc0007f9c0efb0f2b2067f047ddf98ea1b49d8",
+      "bytes": 330355
     },
     {
       "path": "mods/chunksending-fabric-1.21-2.8.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__chunksending-fabric-1.21-2.8.jar",
-      "sha256": "3cbf3001df6f11bea3dbd61cdddf548c158821feaa9f6fc36d67fdbabcb19f90"
+      "sha256": "3cbf3001df6f11bea3dbd61cdddf548c158821feaa9f6fc36d67fdbabcb19f90",
+      "bytes": 10986
     },
     {
       "path": "mods/Chunky-Fabric-1.4.23.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__Chunky-Fabric-1.4.23.jar",
-      "sha256": "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e"
+      "sha256": "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e",
+      "bytes": 342979
     },
     {
       "path": "mods/cloth-config-15.0.140-fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__cloth-config-15.0.140-fabric.jar",
-      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "bytes": 1157166
     },
     {
       "path": "mods/Clumps-fabric-1.21.1-19.0.0.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__Clumps-fabric-1.21.1-19.0.0.1.jar",
-      "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7"
+      "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7",
+      "bytes": 20723
     },
     {
       "path": "mods/compactf3plus-1.1.2-fabric-1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__compactf3plus-1.1.2-fabric-1.21.1.jar",
-      "sha256": "6de910e16ca6db60562f9c6caf4603f099fa356573535f49546b09793fe102a7"
+      "sha256": "6de910e16ca6db60562f9c6caf4603f099fa356573535f49546b09793fe102a7",
+      "bytes": 31999
     },
     {
       "path": "mods/connectivity-fabric-1.21-7.6.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__connectivity-fabric-1.21-7.6.jar",
-      "sha256": "7abf008b1d8fb99a26a381f8998c3a12c4dad6506937c5289f78a4300dca132a"
+      "sha256": "7abf008b1d8fb99a26a381f8998c3a12c4dad6506937c5289f78a4300dca132a",
+      "bytes": 198109
     },
     {
       "path": "mods/CraftTweaker-fabric-1.21.1-21.0.38.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__CraftTweaker-fabric-1.21.1-21.0.38.jar",
-      "sha256": "0232ca9d69713f366eecec58838772848d969028b6bfe283cde86ac712ede361"
+      "sha256": "0232ca9d69713f366eecec58838772848d969028b6bfe283cde86ac712ede361",
+      "bytes": 4178419
     },
     {
       "path": "mods/CrashAssistant-fabric-1.20.2-1.21.4-1.11.9.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__CrashAssistant-fabric-1.20.2-1.21.4-1.11.9.jar",
-      "sha256": "51b85002531ea5c73712b9bbf029df35aee87d9041f42ce58f82b3991f489518"
+      "sha256": "51b85002531ea5c73712b9bbf029df35aee87d9041f42ce58f82b3991f489518",
+      "bytes": 3170746
     },
     {
       "path": "mods/crashexploitfixer-fabric-2.0.0+1.21.4.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__crashexploitfixer-fabric-2.0.0%2B1.21.4.jar",
-      "sha256": "ea28540202903ff1a61daf18df9f067c6a669972f7e9923b2039fa8af46c0e0f"
+      "sha256": "ea28540202903ff1a61daf18df9f067c6a669972f7e9923b2039fa8af46c0e0f",
+      "bytes": 699474
     },
     {
       "path": "mods/cupboard-fabric-1.21-2.9.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__cupboard-fabric-1.21-2.9.jar",
-      "sha256": "3a68c395d12e5313246d1576c9ca8815d4d8b4adedaf4236d7b8b4a48fdd82f7"
+      "sha256": "3a68c395d12e5313246d1576c9ca8815d4d8b4adedaf4236d7b8b4a48fdd82f7",
+      "bytes": 23781
     },
     {
       "path": "mods/disconnect-packet-fix-fabric-2.0.0.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__disconnect-packet-fix-fabric-2.0.0.jar",
-      "sha256": "28b516da6b4c6f2325bf984d05d21c139eded77904ec5275076ea5c41532bc83"
+      "sha256": "28b516da6b4c6f2325bf984d05d21c139eded77904ec5275076ea5c41532bc83",
+      "bytes": 8703
     },
     {
       "path": "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
-      "sha256": "daba497eaaefe535f04f2ee6f6be11485d3d5b46676fbf0a792d26e178ef4785"
+      "sha256": "daba497eaaefe535f04f2ee6f6be11485d3d5b46676fbf0a792d26e178ef4785",
+      "bytes": 30113661
     },
     {
       "path": "mods/distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__distraction_free_recipes-fabric-1.2.2-1.21.1.jar",
-      "sha256": "451953a631ee3d049840442bf31e9b92a983de209dd86597413f3e9c17c88608"
+      "sha256": "451953a631ee3d049840442bf31e9b92a983de209dd86597413f3e9c17c88608",
+      "bytes": 681921
     },
     {
       "path": "mods/fabric-api-0.116.12+1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__fabric-api-0.116.12%2B1.21.1.jar",
-      "sha256": "b872f8c6de3a49cb2f01482830552b4e9fa246ca2274e99f393caefa4a121ff2"
+      "sha256": "b872f8c6de3a49cb2f01482830552b4e9fa246ca2274e99f393caefa4a121ff2",
+      "bytes": 2427037
     },
     {
       "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
-      "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832"
+      "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832",
+      "bytes": 8076848
     },
     {
       "path": "mods/fastasyncworldsave-fabric-1.21-2.6.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__fastasyncworldsave-fabric-1.21-2.6.jar",
-      "sha256": "8ad6b20252f3a272fcd0c36f8da5f957b2fc357bdb0db4c1290b1379eebe1a2f"
+      "sha256": "8ad6b20252f3a272fcd0c36f8da5f957b2fc357bdb0db4c1290b1379eebe1a2f",
+      "bytes": 10448
     },
     {
       "path": "mods/fastboot-1.21.x-v1.3.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__fastboot-1.21.x-v1.3.jar",
-      "sha256": "3c5963545cf51f646b4ce29c575dcb08dc23c1bcb964b5171817f6e6fe1cc074"
+      "sha256": "3c5963545cf51f646b4ce29c575dcb08dc23c1bcb964b5171817f6e6fe1cc074",
+      "bytes": 36993
     },
     {
       "path": "mods/FastItemFrames-v21.1.6-1.21.1-Fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__FastItemFrames-v21.1.6-1.21.1-Fabric.jar",
-      "sha256": "6d2bc477af0fd4f7cbff2a277ba9a49e50b13439d355277f28ed02528c02d3c1"
+      "sha256": "6d2bc477af0fd4f7cbff2a277ba9a49e50b13439d355277f28ed02528c02d3c1",
+      "bytes": 96210
     },
     {
       "path": "mods/FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
-      "sha256": "788bc26585ab393c5b956e7a163d73643fa80c8b89b29bb266e8537b23b163ee"
+      "sha256": "788bc26585ab393c5b956e7a163d73643fa80c8b89b29bb266e8537b23b163ee",
+      "bytes": 15966
     },
     {
       "path": "mods/ferritecore-7.0.3-fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__ferritecore-7.0.3-fabric.jar",
-      "sha256": "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
+      "sha256": "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2",
+      "bytes": 123450
     },
     {
       "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-      "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
+      "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1",
+      "bytes": 633065
     },
     {
       "path": "mods/fpsbooster-fabric-1.21.1-1.0.0.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__fpsbooster-fabric-1.21.1-1.0.0.jar",
-      "sha256": "a60c5cf45ed9755a17a6e729f145bded3f6c2562f92188377c9c4ba94838ab5c"
+      "sha256": "a60c5cf45ed9755a17a6e729f145bded3f6c2562f92188377c9c4ba94838ab5c",
+      "bytes": 17264
     },
     {
       "path": "mods/fzzy_config-0.7.6+1.21.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__fzzy_config-0.7.6%2B1.21.jar",
-      "sha256": "323dc065cc3aaeb7f908be7e5d31070a25d4188b433ed770a79700ef8f5e8f7d"
+      "sha256": "323dc065cc3aaeb7f908be7e5d31070a25d4188b433ed770a79700ef8f5e8f7d",
+      "bytes": 2365335
     },
     {
       "path": "mods/GpuTape-1.18x-1.21x-1.0.5.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__GpuTape-1.18x-1.21x-1.0.5.1.jar",
-      "sha256": "ef2d70cb66a265c8d72a30602942a929dca3d114bfb231b3191f28d3a1fc441e"
+      "sha256": "ef2d70cb66a265c8d72a30602942a929dca3d114bfb231b3191f28d3a1fc441e",
+      "bytes": 23724
     },
     {
       "path": "mods/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
-      "sha256": "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9"
+      "sha256": "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9",
+      "bytes": 342770
     },
     {
       "path": "mods/immersive_optimization-fabric-1.21-0.1.5.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__immersive_optimization-fabric-1.21-0.1.5.jar",
-      "sha256": "0fbea801b2ed91acacf752a6be4bc2f60c3596bd84fffeaf4f61d1b689ea9ff5"
+      "sha256": "0fbea801b2ed91acacf752a6be4bc2f60c3596bd84fffeaf4f61d1b689ea9ff5",
+      "bytes": 52951
     },
     {
       "path": "mods/krypton-0.2.8.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__krypton-0.2.8.jar",
-      "sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"
+      "sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe",
+      "bytes": 161045
     },
     {
       "path": "mods/LeavesBeGone-v21.1.1-1.21.1-Fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__LeavesBeGone-v21.1.1-1.21.1-Fabric.jar",
-      "sha256": "a723684cf396e3eced0467b45b3cb03c5bfebf89a5a935813861fedc523a139d"
+      "sha256": "a723684cf396e3eced0467b45b3cb03c5bfebf89a5a935813861fedc523a139d",
+      "bytes": 55826
     },
     {
       "path": "mods/lithium-fabric-0.15.3+mc1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__lithium-fabric-0.15.3%2Bmc1.21.1.jar",
-      "sha256": "a1eb3b150b559b0c0976f628ffd5f791458b98891634211b2727ff7857d157b8"
+      "sha256": "a1eb3b150b559b0c0976f628ffd5f791458b98891634211b2727ff7857d157b8",
+      "bytes": 797398
     },
     {
       "path": "mods/lmft-1.1.1+1.21.9-fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__lmft-1.1.1%2B1.21.9-fabric.jar",
-      "sha256": "25ebdec14e3dc557866100c19169b0e2fb54cf7ef25d78f90aca4631ee2e5a0d"
+      "sha256": "25ebdec14e3dc557866100c19169b0e2fb54cf7ef25d78f90aca4631ee2e5a0d",
+      "bytes": 78180
     },
     {
       "path": "mods/LongerChatHistory-fabric-1.7.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__LongerChatHistory-fabric-1.7.jar",
-      "sha256": "b78f8f0978c44c953a9050d082fef1a18ab679f110ebe10951186ce51e6e6996"
+      "sha256": "b78f8f0978c44c953a9050d082fef1a18ab679f110ebe10951186ce51e6e6996",
+      "bytes": 6885
     },
     {
       "path": "mods/maxhealthfix-fabric-1.21.1-21.1.4.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__maxhealthfix-fabric-1.21.1-21.1.4.jar",
-      "sha256": "1e3d5ee4028b732dc3273fa13a4b1c52de01fa6d078eb6354546807397c492cb"
+      "sha256": "1e3d5ee4028b732dc3273fa13a4b1c52de01fa6d078eb6354546807397c492cb",
+      "bytes": 21073
     },
     {
       "path": "mods/memguard-1.0.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__memguard-1.0.1.jar",
-      "sha256": "0b35c27844e2e276b1efc2494b1db3e6466f6e3ed32a66a14519681acd82630c"
+      "sha256": "0b35c27844e2e276b1efc2494b1db3e6466f6e3ed32a66a14519681acd82630c",
+      "bytes": 8163
     },
     {
       "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
-      "sha256": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"
+      "sha256": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c",
+      "bytes": 471258
     },
     {
       "path": "mods/modmenu-11.0.4.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__modmenu-11.0.4.jar",
-      "sha256": "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3"
+      "sha256": "a88e0d67c82b0434cbf56776c482587c275ed660f635d33f53ba485dfa30dcc3",
+      "bytes": 973059
     },
     {
       "path": "mods/moreculling-fabric-1.21.1-1.0.7.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__moreculling-fabric-1.21.1-1.0.7.jar",
-      "sha256": "2dc25af76f194e7bbc1b8f1b40625cd6705079c3c63de8b19c94cdd53e979530"
+      "sha256": "2dc25af76f194e7bbc1b8f1b40625cd6705079c3c63de8b19c94cdd53e979530",
+      "bytes": 346926
     },
     {
       "path": "mods/nomorepopups-fabric-1.20.1-2.2.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__nomorepopups-fabric-1.20.1-2.2.1.jar",
-      "sha256": "48d63e3fb6d8b5ee41ed12862b358045e9f64fc3be3ed8d22a5ba4f902e6d526"
+      "sha256": "48d63e3fb6d8b5ee41ed12862b358045e9f64fc3be3ed8d22a5ba4f902e6d526",
+      "bytes": 31531
     },
     {
       "path": "mods/observable-5.4.4.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__observable-5.4.4.jar",
-      "sha256": "738ba288b0e5630f0c1bccaf04ba181205cbf98fb421c9d8a782e75d5f7e356e"
+      "sha256": "738ba288b0e5630f0c1bccaf04ba181205cbf98fb421c9d8a782e75d5f7e356e",
+      "bytes": 386692
     },
     {
       "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-      "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
+      "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f",
+      "bytes": 46623
     },
     {
       "path": "mods/particle_core-0.3.3+1.21.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__particle_core-0.3.3%2B1.21.jar",
-      "sha256": "e7cfef3eb16d5b73c00915a5f2b820d66555c23d13e0636125d7b07384a443e4"
+      "sha256": "e7cfef3eb16d5b73c00915a5f2b820d66555c23d13e0636125d7b07384a443e4",
+      "bytes": 147812
     },
     {
       "path": "mods/performancetweaks-fabric-1.2.0.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__performancetweaks-fabric-1.2.0.jar",
-      "sha256": "d5de2899230e1c4ca1058b753cced3f5e23948cecc10ab61e6840d19723516ab"
+      "sha256": "d5de2899230e1c4ca1058b753cced3f5e23948cecc10ab61e6840d19723516ab",
+      "bytes": 108732
     },
     {
       "path": "mods/placeholder-api-2.4.2+1.21.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__placeholder-api-2.4.2%2B1.21.jar",
-      "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443"
+      "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
+      "bytes": 232325
     },
     {
       "path": "mods/prickle-fabric-1.21.1-21.1.11.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__prickle-fabric-1.21.1-21.1.11.jar",
-      "sha256": "d6d639078aecb72770f287d8253e4634114e2536ac9a2ad6ec5f442eb27dd07f"
+      "sha256": "d6d639078aecb72770f287d8253e4634114e2536ac9a2ad6ec5f442eb27dd07f",
+      "bytes": 87229
     },
     {
       "path": "mods/PuzzlesLib-v21.1.51-1.21.1-Fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__PuzzlesLib-v21.1.51-1.21.1-Fabric.jar",
-      "sha256": "ff82cf49cd0b23dcdd8e2f548cb80737e1173f5787fa430ff1c6971e7fc764c3"
+      "sha256": "ff82cf49cd0b23dcdd8e2f548cb80737e1173f5787fa430ff1c6971e7fc764c3",
+      "bytes": 1467897
     },
     {
       "path": "mods/quick-pack-fabric-1.3.2+1.21.8.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__quick-pack-fabric-1.3.2%2B1.21.8.jar",
-      "sha256": "dc8995397bd7948777a34ab93aa09519fafbe0012ee9bd46cf773d096f0c3009"
+      "sha256": "dc8995397bd7948777a34ab93aa09519fafbe0012ee9bd46cf773d096f0c3009",
+      "bytes": 12107
     },
     {
       "path": "mods/redirected-fabric-1.0.0-1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__redirected-fabric-1.0.0-1.21.1.jar",
-      "sha256": "f66b6c58e5eb217b9473b9002577601754b8a157e37394ba892051cea9fd3453"
+      "sha256": "f66b6c58e5eb217b9473b9002577601754b8a157e37394ba892051cea9fd3453",
+      "bytes": 213687
     },
     {
       "path": "mods/resourcefulconfig-fabric-1.21-3.0.11.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__resourcefulconfig-fabric-1.21-3.0.11.jar",
-      "sha256": "8c2624ddeda09d00c42095a37281dc502c6dcaffae68a3e08c3ea57fef28425e"
+      "sha256": "8c2624ddeda09d00c42095a37281dc502c6dcaffae68a3e08c3ea57fef28425e",
+      "bytes": 345396
     },
     {
       "path": "mods/servercore-fabric-1.5.17+1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__servercore-fabric-1.5.17%2B1.21.1.jar",
-      "sha256": "9c475a693c56262246eead1c31a54513e9164ff7d34c7671203d287e4b5cee58"
+      "sha256": "9c475a693c56262246eead1c31a54513e9164ff7d34c7671203d287e4b5cee58",
+      "bytes": 896875
     },
     {
       "path": "mods/serverpingerfixer-1.0.5.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__serverpingerfixer-1.0.5.jar",
-      "sha256": "10e6552eecf2def5dccdd96472bb93c2b721edf52ac76a277aa6fe62020a265b"
+      "sha256": "10e6552eecf2def5dccdd96472bb93c2b721edf52ac76a277aa6fe62020a265b",
+      "bytes": 7160
     },
     {
       "path": "mods/smoothchunk-fabric-1.21-4.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__smoothchunk-fabric-1.21-4.1.jar",
-      "sha256": "d2e4ebd40dc3805d2dd055019b253524ae216ad141818c198b5fabcc75013f40"
+      "sha256": "d2e4ebd40dc3805d2dd055019b253524ae216ad141818c198b5fabcc75013f40",
+      "bytes": 13769
     },
     {
       "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__sodium-fabric-0.6.13%2Bmc1.21.1.jar",
-      "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
+      "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "bytes": 1297761
     },
     {
       "path": "mods/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
-      "sha256": "bba0be7db914ea799b5e3e93e0ba85a917c21b2da5ac7623981001c001965c70"
+      "sha256": "bba0be7db914ea799b5e3e93e0ba85a917c21b2da5ac7623981001c001965c70",
+      "bytes": 899434
     },
     {
       "path": "mods/sodiumleafculling-fabric-1.0.1-1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__sodiumleafculling-fabric-1.0.1-1.21.1.jar",
-      "sha256": "aa8f0db9eb8f2bbe06d4713dc42e1d0d362ed14a33b85a4f7917202bb7b65041"
+      "sha256": "aa8f0db9eb8f2bbe06d4713dc42e1d0d362ed14a33b85a4f7917202bb7b65041",
+      "bytes": 299711
     },
     {
       "path": "mods/spark-1.10.109-fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__spark-1.10.109-fabric.jar",
-      "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
+      "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047",
+      "bytes": 3609981
     },
     {
       "path": "mods/structureessentials-fabric-1.21-5.0.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__structureessentials-fabric-1.21-5.0.jar",
-      "sha256": "4a327615586a57d51930d024faf154b561734454eb95c7939805774bbc0df759"
+      "sha256": "4a327615586a57d51930d024faf154b561734454eb95c7939805774bbc0df759",
+      "bytes": 61734
     },
     {
       "path": "mods/structure_layout_optimizer-fabric-1.0.12.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__structure_layout_optimizer-fabric-1.0.12.jar",
-      "sha256": "38c4066ded870f21d60deeb2e05cb30d00d1db0f930c92f8fdd2f85098cb03fe"
+      "sha256": "38c4066ded870f21d60deeb2e05cb30d00d1db0f930c92f8fdd2f85098cb03fe",
+      "bytes": 62580
     },
     {
       "path": "mods/toofast-fabric-1.21-1.3.0.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__toofast-fabric-1.21-1.3.0.jar",
-      "sha256": "25b9006dc78629d60e6168c352cbccf667af2981b7049abd08e7d8ada4124b60"
+      "sha256": "25b9006dc78629d60e6168c352cbccf667af2981b7049abd08e7d8ada4124b60",
+      "bytes": 63226
     },
     {
       "path": "mods/txnilib-fabric-1.0.24-1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__txnilib-fabric-1.0.24-1.21.1.jar",
-      "sha256": "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3"
+      "sha256": "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3",
+      "bytes": 1303092
     },
     {
       "path": "mods/voicechat-fabric-1.21.1-2.6.18.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__voicechat-fabric-1.21.1-2.6.18.jar",
-      "sha256": "cae3bf47d60755c9a44007c93bb79febffac4442b77f779b6fadd5d7c9eceffc"
+      "sha256": "cae3bf47d60755c9a44007c93bb79febffac4442b77f779b6fadd5d7c9eceffc",
+      "bytes": 5353920
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
-      "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1"
+      "sha256": "6ab420b7d1326fc9851b96a8967504bd644da421ed6438ceb9a9d9c993a408b1",
+      "bytes": 1131265
     },
     {
       "path": "mods/zoomify-2.15.2+1.21.1.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__zoomify-2.15.2%2B1.21.1.jar",
-      "sha256": "6c317987df28922e227ab3ac4e39090460d99b965bcb9c8da8f9a4493b705d00"
+      "sha256": "6c317987df28922e227ab3ac4e39090460d99b965bcb9c8da8f9a4493b705d00",
+      "bytes": 872937
     },
     {
       "path": "mods/hardcorerevivales.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/mods__hardcorerevivales.jar",
-      "sha256": "1023b11c0e6ed2bb887a05b979b46170371d70db35bc0ec9df5b54defc2b4013"
+      "sha256": "1023b11c0e6ed2bb887a05b979b46170371d70db35bc0ec9df5b54defc2b4013",
+      "bytes": 236105
     },
     {
       "path": "config/crash_assistant/config.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__crash_assistant__config.toml",
-      "sha256": "70afae11eb284d0d2844743296179feb8d905c274ffa764cc366bfa6939490a4"
+      "sha256": "70afae11eb284d0d2844743296179feb8d905c274ffa764cc366bfa6939490a4",
+      "bytes": 22661
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/README.md",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__crash_assistant__crash_assistant_localization_overrides__README.md",
-      "sha256": "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
+      "sha256": "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d",
+      "bytes": 2650
     },
     {
       "path": "config/crash_assistant/modlist.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__crash_assistant__modlist.json",
-      "sha256": "6c84f9ea4e70afd2aed504cb8f21f6dc9b12f8f6dac4907c061695106294423b"
+      "sha256": "6c84f9ea4e70afd2aed504cb8f21f6dc9b12f8f6dac4907c061695106294423b",
+      "bytes": 19188
     },
     {
       "path": "config/crash_assistant/scripts/log_analysis/example.jexl",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__crash_assistant__scripts__log_analysis__example.jexl",
-      "sha256": "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
+      "sha256": "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b",
+      "bytes": 3495
     },
     {
       "path": "config/crash_assistant/scripts/startup/example.jexl",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__crash_assistant__scripts__startup__example.jexl",
-      "sha256": "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37"
+      "sha256": "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37",
+      "bytes": 4408
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__fabric__indigo-renderer.properties",
-      "sha256": "5b807a830a3c311b115a9e4290eb21ed46b0b9b61e7af5e4043efc3e4fc4a063"
+      "sha256": "5b807a830a3c311b115a9e4290eb21ed46b0b9b61e7af5e4043efc3e4fc4a063",
+      "bytes": 290
     },
     {
       "path": "config/fzzy_config/keybinds.toml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__fzzy_config__keybinds.toml",
-      "sha256": "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+      "sha256": "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f",
+      "bytes": 6403
     },
     {
       "path": "config/perf_tweaks/letmedespawn.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__perf_tweaks__letmedespawn.json",
-      "sha256": "58e3442cb7ba28e81907fda6b2f1530dd7dd1d5d91ede7ef2ad7451ae22a4af0"
+      "sha256": "58e3442cb7ba28e81907fda6b2f1530dd7dd1d5d91ede7ef2ad7451ae22a4af0",
+      "bytes": 43
     },
     {
       "path": "config/perf_tweaks/perf_tweaks.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__perf_tweaks__perf_tweaks.json",
-      "sha256": "5a3080e44cb15b4f70a2251038cd2a8a92dfb5e9eff23558a94c1b8c25bd9377"
+      "sha256": "5a3080e44cb15b4f70a2251038cd2a8a92dfb5e9eff23558a94c1b8c25bd9377",
+      "bytes": 49
     },
     {
       "path": "config/servercore/config.yml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__servercore__config.yml",
-      "sha256": "2387d926a0f2d9f5f958aaba0de6d7bea3d6bf9f0810fd33a6ce4d681efb8628"
+      "sha256": "2387d926a0f2d9f5f958aaba0de6d7bea3d6bf9f0810fd33a6ce4d681efb8628",
+      "bytes": 11426
     },
     {
       "path": "config/servercore/optimizations.yml",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__servercore__optimizations.yml",
-      "sha256": "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
+      "sha256": "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192",
+      "bytes": 1392
     },
     {
       "path": "config/spark/tmp/about.txt",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__spark__tmp__about.txt",
-      "sha256": "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+      "sha256": "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0",
+      "bytes": 585
     },
     {
       "path": "config/voicechat/category-volumes.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__voicechat__category-volumes.properties",
-      "sha256": "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+      "sha256": "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56",
+      "bytes": 46
     },
     {
       "path": "config/voicechat/player-volumes.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__voicechat__player-volumes.properties",
-      "sha256": "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+      "sha256": "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96",
+      "bytes": 44
     },
     {
       "path": "config/voicechat/translations.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__voicechat__translations.properties",
-      "sha256": "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+      "sha256": "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1",
+      "bytes": 1182
     },
     {
       "path": "config/voicechat/username-cache.json",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__voicechat__username-cache.json",
-      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__voicechat__voicechat-client.properties",
-      "sha256": "980d406566026fa250061648ca140ece39b9c7032b0115769f9325facacd6532"
+      "sha256": "980d406566026fa250061648ca140ece39b9c7032b0115769f9325facacd6532",
+      "bytes": 5063
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__voicechat__voicechat-server.properties",
-      "sha256": "b10fcea12872506d789ad10da3139d4fcd2aa2fb21c3379d189ca6bf1da0eb58"
+      "sha256": "b10fcea12872506d789ad10da3139d4fcd2aa2fb21c3379d189ca6bf1da0eb58",
+      "bytes": 2830
     },
     {
       "path": "config/yacl.json5",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.1/config__yacl.json5",
-      "sha256": "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+      "sha256": "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e",
+      "bytes": 250
     },
     {
       "path": "mods/defaultoptions-fabric-1.21.1-21.1.6(1).jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.2/mods__defaultoptions-fabric-1.21.1-21.1.6.1.jar",
-      "sha256": "58ee72ca49b823de40d164296c9e790d1ef433561ad2dff0b50059136624f314"
+      "sha256": "58ee72ca49b823de40d164296c9e790d1ef433561ad2dff0b50059136624f314",
+      "bytes": 98310
     },
     {
       "path": "mods/ImageOverlay-1.21.1-1.1.3.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.2/mods__ImageOverlay-1.21.1-1.1.3.jar",
-      "sha256": "af837263e50c0aa98ab19c61119faf23d1c7cacae87defcc17569bb5c90971c6"
+      "sha256": "af837263e50c0aa98ab19c61119faf23d1c7cacae87defcc17569bb5c90971c6",
+      "bytes": 332499
     },
     {
-      "path": "config/defaultoptions/options.txt",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.3/config__defaultoptions__options.txt",
-      "sha256": "1d262f4331356767069ed52055909740a89c77ca788fb59aeac7d6e3eda20617"
+      "path": "options.txt",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.4/options.txt",
+      "sha256": "1d262f4331356767069ed52055909740a89c77ca788fb59aeac7d6e3eda20617",
+      "bytes": 2507
     }
   ],
   "pack_bytes": 81568540
