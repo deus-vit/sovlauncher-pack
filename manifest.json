@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.19.3",
@@ -3639,6 +3639,30 @@
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.2/resourcepacks__HardCoreGods_Texturepack.zip",
       "sha256": "f99253871a07da859a13a3dbbf98781aa8ca3d976229a4ce0b9c5da331dee217",
       "bytes": 2368013
+    },
+    {
+      "path": "config/ktnilcks/nodes/MP/localhost.ilcks",
+      "url": "",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "config/ktnilcks/nodes/SP/Mundo Nuevo.ilcks",
+      "url": "",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "config/ktnilcks/nodes/MP/localhost.ilcks.old",
+      "url": "",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "config/watermedia/custom_vlc_path.txt",
+      "url": "",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
     }
   ],
   "pack_bytes": 515975710
